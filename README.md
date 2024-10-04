@@ -1,4 +1,4 @@
-# FruitsParadise
+# FruitsParadise(フルーツパラダイス！)
 
 <dl>
   <dt>概要</dt>
